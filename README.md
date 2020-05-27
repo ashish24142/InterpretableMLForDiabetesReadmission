@@ -1,5 +1,12 @@
 # InterpretableMLForDiabetesReadmission
 
+## NOTE:
+In GitHub the notebook might not get rendered properly, so please use the below link to look at the results:
+
+https://nbviewer.jupyter.org/github/ashish24142/InterpretableMLForDiabetesReadmission/blob/master/Interpretable%20ML%20for%20Risk%20of%20Readmission.ipynb
+
+But you can clone the repo and look at the solution, as well.
+
 ## Basic Explanation
 
 It is important to know if a patient will be readmitted in some hospital. The reason is that you can change the treatment, in order to avoid a readmission.
